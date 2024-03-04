@@ -10,11 +10,5 @@ The dataset used in this project contains transactions made by credit cards, whe
 - Python 3.8+
 - pip
 
-## Installation
-Clone the repository and navigate to the project directory. Then, install the required packages using pip:
 
-```bash
-git clone https://github.com/your_github_username/fraud_detection_project.git
-cd fraud_detection_project
-pip install -r requirements.txt
 
