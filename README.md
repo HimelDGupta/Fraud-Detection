@@ -18,10 +18,7 @@ The ROC curve illustrates the true positive rate against the false positive rate
 
 ![ROC Curve](Images/roc_curve)
 
-### Precision-Recall Curve
-Given the imbalance in the dataset, the precision-recall curve is a useful tool to show the trade-off between precision and recall for different thresholds.
 
-![Precision-Recall Curve](Images/precision_recall_curve)
 
 ### Feature Importance
 Understanding which features are most important in predicting fraudulent transactions can provide insights into the nature of the fraud.
